@@ -1,7 +1,7 @@
 let button = document.querySelector('button')
 
 const buttonAlert = () => {
-    alert("I DID IT YAYYYYYYYY!")
+    alert("Or do....")
 }
 
 button.addEventListener('click', buttonAlert)
